@@ -1,16 +1,18 @@
-# xM Linc - SNOW
-This is an update set in service now that will allow for quick and easy set up of custom integrations with any table in service now.
+# xM Linc - SNOW (xMatters Lean Integration Nerve Center with Service Now)
+This is an update set and integration between Service Now and xMatters allows for quick and easy set up of custom integrations with any table in Service Now.
+
 
 <kbd>
   <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
 </kbd>
 
 # Pre-Requisites
-* Service Now
+* Service Now - works with Kingston, London, and Madrid
 * xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 
 # Files
 * [xm_Linc_update_set.xml](xm_linc_update_set_full.xml) - This is the xml update set that needs to be imported into your service now instance.
+* [SNOWLINC.zip](SNOWLINC.zip) - This is a base communication plan ready to import into an xMatters instance. It has an Incident form and base properties pre-built and a single endpoint.
 
 # How it works
 This integration uses:
